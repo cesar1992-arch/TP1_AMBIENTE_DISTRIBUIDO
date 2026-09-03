@@ -22,4 +22,10 @@ Ejemplo: un microservicio en la nube que demora en responder por sobrecarga mome
 
 Fallo permanente: no se soluciona con reintentos, requiere intervención o cambios en la arquitectura.
 
+captura de imagenes 
+<img width="926" height="511" alt="Captura de pantalla 2026-09-03 203025" src="https://github.com/user-attachments/assets/75d3f3a1-26cf-456c-a8fe-08abfb0bc384" />
+<img width="927" height="508" alt="Captura de pantalla 2026-09-03 203045" src="https://github.com/user-attachments/assets/8778e104-a0b5-4522-94a2-af990992a836" />
+
+
+
 Ejemplo: un servicio que dejó de existir porque la API fue retirada o el servidor está apagado definitivamente. Ningún reintento logrará conectarse.
